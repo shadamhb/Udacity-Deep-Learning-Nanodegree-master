@@ -5,7 +5,7 @@ This repository's purpose in to document my projects submission to Udacity's [De
 I implemented a simple neural network with numpy. this was a good exercise to understand how forward path and back propagation work in neural network.
 
 ## project2: Dog Breed Classifier
-I implemented a CNN with Keras to classify dog breed.
+I implemented a CNN with PyTorch to classify dog breed.
 
 ## project3: Generate TV Scripts
 I generated TV scripts from existing scripts dataset using RNN.
